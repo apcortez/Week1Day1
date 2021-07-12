@@ -31,6 +31,11 @@ namespace Week1Day1
             short d //16 bit
             int i; //32 bit
             long l; //64 bit
+
+            float f = 2.33f;
+            double pi = 3.12391313;
+            decimal dec = 123.452m;
+
         }
     }
 }
