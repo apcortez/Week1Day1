@@ -48,7 +48,9 @@ namespace Week1Day1
             Console.WriteLine("Ciao, il valore della prima variabile è {0}. Il valore della seconda variabile è {1}");
             Console.WriteLine($"{x}\t{y}");
 
-
+            Console.WriteLine("Come ti chiami?");
+            string nome = Console.ReadLine();
+            Console.WriteLine($"Il tuo nome è {nome}");
         }
     }
 }
