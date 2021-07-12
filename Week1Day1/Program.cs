@@ -55,6 +55,7 @@ namespace Week1Day1
             Console.WriteLine("Scrivi un carattere");
             char caracter = Console.ReadKey().KeyChar;
 
+            DateTime data = new DateTime(2021, 7, 12);
         }
     }
 }
