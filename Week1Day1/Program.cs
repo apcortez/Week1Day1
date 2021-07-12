@@ -15,6 +15,11 @@ namespace Week1Day1
             //int a = 1;   //inizializzazione
             int b = 2;
             b = 5;
+
+            const int N = 50;
+            //N = 40;  //non può essere modificato il valore di una costante
+
+            
         }
     }
 }
