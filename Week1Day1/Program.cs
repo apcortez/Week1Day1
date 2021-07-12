@@ -10,7 +10,11 @@ namespace Week1Day1
             /* questo è
              * un commento
              * su più righe */
-            
+            int a; //dichiarazione
+            a = 1; //assegnazione
+            //int a = 1;   //inizializzazione
+            int b = 2;
+            b = 5;
         }
     }
 }
