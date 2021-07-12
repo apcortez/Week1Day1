@@ -20,6 +20,9 @@ namespace Week1Day1
             //N = 40;  //non può essere modificato il valore di una costante
 
             int var1 = 2, var2 = 2, var3 = 3; //inizializzazione di più variabili su un unica riga
+
+            string parola = "ciao a tutte!";
+            char carattere = 'a';
         }
     }
 }
