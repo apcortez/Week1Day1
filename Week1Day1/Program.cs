@@ -23,6 +23,9 @@ namespace Week1Day1
 
             string parola = "ciao a tutte!";
             char carattere = 'a';
+
+            string s = "20";
+            int ss = 20;
         }
     }
 }
