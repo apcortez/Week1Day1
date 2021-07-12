@@ -28,7 +28,7 @@ namespace Week1Day1
             int ss = 20;
 
             byte c; //tra 0 e 255, 8 bit
-            short d //16 bit
+            short d; //16 bit
             int i; //32 bit
             long l; //64 bit
 
@@ -38,6 +38,15 @@ namespace Week1Day1
 
             bool isSunny = true;
             bool isRed;
+
+            Console.WriteLine(parola);
+            Console.WriteLine(carattere);
+
+            int x = 1;
+            int y = 2;
+            Console.WriteLine($"Ciao, il valore della prima variabile è {x}. Il valore della seconda variabile è {y}");
+            Console.WriteLine("Ciao, il valore della prima variabile è {0}. Il valore della seconda variabile è {1}");
+            Console.WriteLine($"{x}\t{y}");
 
 
         }
