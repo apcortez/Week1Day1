@@ -36,6 +36,10 @@ namespace Week1Day1
             double pi = 3.12391313;
             decimal dec = 123.452m;
 
+            bool isSunny = true;
+            bool isRed;
+
+
         }
     }
 }
