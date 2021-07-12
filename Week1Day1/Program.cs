@@ -51,6 +51,10 @@ namespace Week1Day1
             Console.WriteLine("Come ti chiami?");
             string nome = Console.ReadLine();
             Console.WriteLine($"Il tuo nome è {nome}");
+
+            Console.WriteLine("Scrivi un carattere");
+            char caracter = Console.ReadKey().KeyChar;
+
         }
     }
 }
