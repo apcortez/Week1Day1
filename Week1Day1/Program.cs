@@ -26,6 +26,11 @@ namespace Week1Day1
 
             string s = "20";
             int ss = 20;
+
+            byte c; //tra 0 e 255, 8 bit
+            short d //16 bit
+            int i; //32 bit
+            long l; //64 bit
         }
     }
 }
